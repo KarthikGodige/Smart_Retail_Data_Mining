@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
+.vscode/
+.streamlit/secrets.toml
+data/Online Retail.xlsx
+.DS_Store
+Thumbs.db
+*.log
